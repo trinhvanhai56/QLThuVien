@@ -1,0 +1,489 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\chitietphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\chitietphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\chitietphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\chitietphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|d:\\\u1EA3nh c\u1EE7a loan\\fulltextsearch_lucene\\fulltextsearch_lucene\\fulltextsearch_lucene\\phieumuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\phieumuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\phieumuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\phieumuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|d:\\\u1EA3nh c\u1EE7a loan\\fulltextsearch_lucene\\fulltextsearch_lucene\\fulltextsearch_lucene\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_107KRUE/QuanLyThuVien/True/SqlTable/dbo.TaiKhoan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_107KRUE/QuanLyThuVien/True/SqlTable/dbo.PhieuMuon.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\sach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\sach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|d:\\\u1EA3nh c\u1EE7a loan\\fulltextsearch_lucene\\fulltextsearch_lucene\\fulltextsearch_lucene\\chonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\chonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|d:\\\u1EA3nh c\u1EE7a loan\\fulltextsearch_lucene\\fulltextsearch_lucene\\fulltextsearch_lucene\\chonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\chonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\luceneindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\luceneindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\chitietphieumuon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\chitietphieumuon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\fulltextsearch_lucene\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A23370E-5B82-4D84-BBAC-7941BA027E43}|FullTextSearch_Lucene\\FullTextSearch_Lucene.csproj|solutionrelative:fulltextsearch_lucene\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Main.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Main.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Main.cs [Design]",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:19:40.881Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chitietphieumuon.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Chitietphieumuon.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Chitietphieumuon.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Chitietphieumuon.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Chitietphieumuon.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAawFoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:18:57.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.TaiKhoan [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_107KRUE/QuanLyThuVien/True/SqlTable/dbo.TaiKhoan.sql",
+              "ToolTip": "dbo.TaiKhoan [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-01T13:14:58.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Phieumuonsach.cs [Design]",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Phieumuonsach.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Phieumuonsach.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Phieumuonsach.cs [Design]",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Phieumuonsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:20:54.253Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Phieumuonsach.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Phieumuonsach.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Phieumuonsach.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Phieumuonsach.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Phieumuonsach.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAwwKIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:17:01.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chitietphieumuon.cs [Design]",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Chitietphieumuon.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Chitietphieumuon.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Chitietphieumuon.cs [Design]",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Chitietphieumuon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:18:33.209Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Sach.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Sach.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Sach.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Sach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:43:47.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Form1.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Form1.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Form1.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Form1.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwIsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:49:42.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Main.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Main.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Main.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Main.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:44:31.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Form1.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Form1.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Form1.cs [Design]",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:49:43.237Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Docgia.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Docgia.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Docgia.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Docgia.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Docgia.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAADwv8EAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:09:44.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Docgia.cs [Design]",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Docgia.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Docgia.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Docgia.cs [Design]",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Docgia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:19:33.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Nhanvien.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Nhanvien.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Nhanvien.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Nhanvien.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAcwPQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:09:32.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Nhanvien.cs [Design]",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Nhanvien.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Nhanvien.cs [Design]",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Nhanvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:20:49.599Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sach.Designer.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Sach.Designer.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Sach.Designer.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Sach.Designer.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Sach.Designer.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAEwJ4BAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:21:00.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Chonsach.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Chonsach.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Chonsach.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Chonsach.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Chonsach.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwFcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:59:25.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.PhieuMuon [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_107KRUE/QuanLyThuVien/True/SqlTable/dbo.PhieuMuon.sql",
+              "ToolTip": "dbo.PhieuMuon [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-01T12:20:05.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Chonsach.cs [Design]",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Chonsach.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Chonsach.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Chonsach.cs [Design]",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Chonsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:09:24.363Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LuceneIndexer.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\LuceneIndexer.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\LuceneIndexer.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\LuceneIndexer.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\LuceneIndexer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswBwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:16:32.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Sach.cs [Design]",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Sach.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Sach.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Sach.cs [Design]",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Sach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:20:58.132Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\App.config",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\App.config",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\App.config",
+              "RelativeToolTip": "FullTextSearch_Lucene\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-31T05:13:08.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Login.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Login.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Login.cs [Design]",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:16:59.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Login.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Login.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Login.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Login.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:30:15.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Properties\\Settings.settings",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Properties\\Settings.settings",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-03-31T05:40:18.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "database.cs [Design]",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\database.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\database.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\database.cs [Design]",
+              "RelativeToolTip": "FullTextSearch_Lucene\\database.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:43:19.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "database.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\database.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\database.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\database.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\database.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:43:23.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Main.Designer.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Main.Designer.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Main.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAjwEUAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:19:44.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Chitietphieumuon.Designer.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Chitietphieumuon.Designer.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Chitietphieumuon.Designer.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Chitietphieumuon.Designer.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Chitietphieumuon.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAWwE4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:18:35.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Program.cs",
+              "RelativeDocumentMoniker": "FullTextSearch_Lucene\\Program.cs",
+              "ToolTip": "D:\\\u1EA2nh C\u1EE7a Loan\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\FullTextSearch_Lucene\\Program.cs",
+              "RelativeToolTip": "FullTextSearch_Lucene\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:13:48.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\FullTextSearch_Lucene.exe.config
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\FullTextSearch_Lucene.exe
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\FullTextSearch_Lucene.pdb
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.csproj.AssemblyReference.cache
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.Form1.resources
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.Properties.Resources.resources
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.csproj.GenerateResource.cache
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.csproj.CopyComplete
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.exe
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.pdb
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\J2N.dll
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.Analysis.Common.dll
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.dll
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.Queries.dll
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.QueryParser.dll
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.Sandbox.dll
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Prism.dll
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\System.ValueTuple.dll
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\J2N.xml
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.xml
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.Analysis.Common.xml
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.Queries.xml
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.QueryParser.xml
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.Sandbox.xml
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Prism.pdb
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Prism.xml
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Downloads\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\System.ValueTuple.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\FullTextSearch_Lucene.exe.config
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\FullTextSearch_Lucene.exe
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\FullTextSearch_Lucene.pdb
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\J2N.dll
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.Analysis.Common.dll
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.dll
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.Queries.dll
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.QueryParser.dll
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.Sandbox.dll
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Newtonsoft.Json.dll
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Prism.dll
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\System.ValueTuple.dll
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\J2N.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.Analysis.Common.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.Queries.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.QueryParser.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Lucene.Net.Sandbox.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Newtonsoft.Json.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Prism.pdb
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\Prism.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\bin\Debug\System.ValueTuple.xml
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.csproj.AssemblyReference.cache
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.Form1.resources
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.Properties.Resources.resources
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.csproj.GenerateResource.cache
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.csproj.CoreCompileInputs.cache
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullText.72001270.Up2Date
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.exe
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.pdb
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.Chitietphieumuon.resources
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.Docgia.resources
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.Login.resources
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.Main.resources
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.Nhanvien.resources
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.Phieumuonsach.resources
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.Sach.resources
+D:\Ảnh Của Loan\FullTextSearch_Lucene\FullTextSearch_Lucene\FullTextSearch_Lucene\obj\Debug\FullTextSearch_Lucene.Chonsach.resources
